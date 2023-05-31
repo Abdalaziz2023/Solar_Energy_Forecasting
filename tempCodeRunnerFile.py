@@ -1,0 +1,1 @@
+data = data.loc[(data["Day"] == 1) & (data["Day"] == 20)]
